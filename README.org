@@ -1,10 +1,10 @@
-* Resources
-- [Awesome Productivity](https://github.com/jyguyomarch/awesome-productivity)
-- [Productivity & time management](https://github.com/LappleApple/awesome-leading-and-managing/blob/master/Productivity-and-Time-Management.md)
-- [Awesome Productivity Software](https://github.com/areknawo/awesome-productivity-software)
-- [Ultimate productivity resources](https://medium.com/taking-note/the-ultimate-list-of-the-best-productivity-resources-5ad2f648875b)
-- [100+ Resources for Optimizing Your Productivity and Performance](https://blog.usejournal.com/100-resources-for-optimizing-your-productivity-and-performance-7138ce27c1d1)
-- [50+ Resources for Students Who Want to Stay Productive](https://blog.doist.com/50-resources-students-stay-productive/)
+## Resources
+  - [Awesome Productivity](https://github.com/jyguyomarch/awesome-productivity)
+  - [Productivity & time management](https://github.com/LappleApple/awesome-leading-and-managing/blob/master/Productivity-and-Time-Management.md)
+  - [Awesome Productivity Software](https://github.com/areknawo/awesome-productivity-software)
+  - [Ultimate productivity resources](https://medium.com/taking-note/the-ultimate-list-of-the-best-productivity-resources-5ad2f648875b)
+  - [100+ Resources for Optimizing Your Productivity and Performance](https://blog.usejournal.com/100-resources-for-optimizing-your-productivity-and-performance-7138ce27c1d1)
+  - [50+ Resources for Students Who Want to Stay Productive](https://blog.doist.com/50-resources-students-stay-productive/)
 
 * Articles
 - [[http://alifeofproductivity.com/100-time-energy-attention-hacks-will-make-productive/][100 time, energy, and attention hacks to be more productive]] ([[file:bailey-100-hacks.org][notes]]): by Chris Bailey.
