@@ -7,7 +7,8 @@
   - [50+ Resources for Students Who Want to Stay Productive](https://blog.doist.com/50-resources-students-stay-productive/)
 
 ## Articles
-
+- [20 Resources to help manage your time](https://www.invensislearning.com/upskill/20-great-resources-to-help-manage-your-time)
+- [20 Tips](https://www.forbes.com/sites/johnrampton/2018/05/01/manipulate-time-with-these-powerful-20-time-management-tips/)
 
 ## Talks
 
