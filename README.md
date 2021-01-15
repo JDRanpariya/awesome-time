@@ -6,12 +6,12 @@
   - [100+ Resources for Optimizing Your Productivity and Performance](https://blog.usejournal.com/100-resources-for-optimizing-your-productivity-and-performance-7138ce27c1d1)
   - [50+ Resources for Students Who Want to Stay Productive](https://blog.doist.com/50-resources-students-stay-productive/)
 
-* Articles
-- [[http://alifeofproductivity.com/100-time-energy-attention-hacks-will-make-productive/][100 time, energy, and attention hacks to be more productive]] ([[file:bailey-100-hacks.org][notes]]): by Chris Bailey.
-- [[http://time.com/3210420/5-fool-proof-ways-to-end-procrastination-today/][5 Fool-Proof Ways to End Procrastination Today]] ([[file:time-fool-proof-procrastination.org][notes]]): article on causes of and remedies for procrastination by Time.
+## Articles
+- [100 time, energy, and attention hacks to be more productive](http://alifeofproductivity.com/100-time-energy-attention-hacks-will-make-productive/)filebailey-100-hacks.org notes: by Chris Bailey.
+- [5 Fool-Proof Ways to End Procrastination Today](http://time.com/3210420/5-fool-proof-ways-to-end-procrastination-today/) article on causes of and remedies for procrastination by Time.
 - [[http://www.newyorker.com/science/maria-konnikova/a-procrastination-gene][Getting Over Procrastination]]: interview with Piers Steel on the genetics of procrastination and ways to deal with it by The New Yorker.
 - [[http://counselingcenter.illinois.edu/brochures/overcoming-procrastination][Overcoming Procrastination]] ([[file:illinois-overcoming-procrastination.org][notes]]): self-help brochure on overcoming procrastination from the Counseling Center of University of Illinois Urbana-Champaign.
-* Talks
+## Talks
 - [[http://podbay.fm/show/996720481/e/1433133000?autostart=1][Learn about GTD]] ([[file:allen-learn-about-gtd.org][notes]]): David Allen speaks with Mark Dillon in an
   "Organize Mindfully Podcast" about the 5 steps of Getting Things
   Done.
@@ -23,8 +23,8 @@
   prioritizing, goal setting and managing competing demands in a
   university context.
   
-* Websites
+## Websites
 - [toggl](https://toggl.com/track)
-- https://www.psychologytoday.com/blog/dont-delay: understanding procrastination and how to achieve our goals by Timothy A. Pychyl.
-- http://www.sparringmind.com/blog/: weekly essays on start-ups, creativity, and doing better work by Gregory Ciotti.
-- http://http-server.carleton.ca/~tpychyl/: information and research related to procrastination by Timothy A. Pychyl.
+- [procrastination](https://www.psychologytoday.com/blog/dont-delay): understanding procrastination and how to achieve our goals by Timothy A. Pychyl.
+- [essays](http://www.sparringmind.com/blog/): weekly essays on start-ups, creativity, and doing better work by Gregory Ciotti.
+- [procrastination](http://http-server.carleton.ca/~tpychyl/): information and research related to procrastination by Timothy A. Pychyl.
